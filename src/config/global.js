@@ -1,7 +1,8 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
+    Name: 'Desarrollo e integración de la animación',
+    Description:
+      'La animación digital es utilizada en la producción audiovisual convirtiéndose en una herramienta narrativa de interés comercial. Su uso se expande desde los comerciales publicitarios, los videojuegos y el cine. En este material se explican las técnicas de animación más utilizadas y las herramientas digitales para lograr la producción general de animaciones en 2D y 3D.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,27 +32,42 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Animación Digital 2D',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Dibujo a mano alzada',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Photoshop',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Illustrator',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'After Effects',
+            hash: 't_1_4',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Animación 3D',
         desarrolloContenidos: true,
       },
+
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Composición digital y VFX',
         desarrolloContenidos: true,
       },
     ],
