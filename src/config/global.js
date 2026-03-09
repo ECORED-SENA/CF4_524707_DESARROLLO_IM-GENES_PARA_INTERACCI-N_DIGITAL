@@ -133,11 +133,49 @@ export default {
       termino: 'Término',
       significado: 'Definición',
     },
+    {
+      termino: 'Digitalización',
+      significado:
+        'Proceso de transformar procesos análogos, objetos o imágenes físicas al mundo digital (informático).',
+    },
+    {
+      termino: 'Interfaz',
+      significado:
+        'Medio con el que el usuario interactúa con los programas de computación; comprende todos los puntos de contacto entre el usuario y el equipo, como pantallas de visualización, teclados, mouse y la apariencia del escritorio.',
+    },
+    {
+      termino: 'Panel',
+      significado:
+        'En informática, subdivisión de la interfaz de usuario que puede dividirse en secciones con herramientas o espacios donde se realizan procesos específicos dentro de un programa.',
+    },
+    {
+      termino: 'Renderización',
+      significado:
+        'Proceso que realiza un programa de diseño, ya sea de video, ilustración, fotografía o modelado 3D, para generar estos elementos al momento de verificar o exportar el trabajo final.',
+    },
+    {
+      termino: 'Usuario',
+      significado:
+        'En informática, persona que utiliza un <i>software</i> o programa de cómputo.',
+    },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Angulo, S. M. (2019). Los doce principios de animación. Tesseract Space.',
+      link:
+        'https://www.tesseractspace.com/blog/los-12-principios-de-animacion/',
+    },
+    {
+      referencia:
+        'Cortés, J. (2021). 10 Técnicas de composición digital en VFX. No Todo Animación.',
+      link: 'https://www.notodoanimacion.es/tecnicas-de-composicion-digital/',
+    },
+    {
+      referencia:
+        'Torres, A. (2021). Animación 3D: qué es, tipos principales y cómo se aplica hoy.  ESdesign Barcelona.',
+      link:
+        'https://www.esdesignbarcelona.com/actualidad/animacion/que-es-la-animacion-3d-y-que-tipos-existen',
     },
   ],
   creditos: [
