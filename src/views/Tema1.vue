@@ -109,6 +109,13 @@
 
     p.mb-3(data-aos="fade-left") El siguiente recurso orienta el proceso de preparación de personajes en Photoshop mediante la segmentación en capas, permitiendo organizar cada parte del cuerpo de forma independiente para facilitar su posterior animación en programas especializados como After Effects.
     
+
+    figure.mb-4(data-aos="fade-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=qDKOxanFT88" title="Impuestos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+
+
     //- Fin Tema1.2
 
     //- Inicio Tema1.3
@@ -126,6 +133,13 @@
           img(src="@/assets/curso/tema1/4.png", data-aos="zoom-in")
 
     p.mb-3(data-aos="fade-left") El siguiente video presenta el proceso de vectorización y preparación de un personaje en Illustrator, explicando paso a paso la configuración del espacio de trabajo, el uso de herramientas de trazado y la organización de capas, hasta su exportación para la animación digital en programas especializados.
+
+
+
+    figure.mb-4(data-aos="fade-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=XHBSSwwx0Mk" title="Impuestos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     
     //- Fin Tema1.3
 
@@ -136,10 +150,10 @@
         #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.4 After Effects
     p.mb-3(data-aos="fade-left") After Effects es un programa especializado en animación, composición y efectos digitales, utilizado en la producción cinematográfica, el diseño infográfico y la televisión, entre otros ámbitos. Su entorno de trabajo se basa en una línea de tiempo, donde los elementos se organizan por capas dentro de una composición. Esta estructura lo convierte en una herramienta versátil para proyectos audiovisuales de diversa complejidad. A continuación, se describen los pasos para animar el ciclo de caminado del personaje previamente diseñado, digitalizado o vectorizado.    
-    .row.mb-12
-      .col-lg-5.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema1/3.png", data-aos="zoom-in")
+    
+    figure.mb-4(data-aos="fade-left")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=v0V5scPpWpA" title="Impuestos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     //- Fin Tema1.4
 
