@@ -112,7 +112,7 @@
 
     figure.mb-4(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=qDKOxanFT88" title="Impuestos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/qDKOxanFT88?si=leDO7NswZGGPYY7y" title="Fundamentos de la animación: introducción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
 
@@ -138,7 +138,7 @@
 
     figure.mb-4(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=XHBSSwwx0Mk" title="Impuestos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/XHBSSwwx0Mk?si=owRGp5eNQTrzAbhM" title="Animación digital: Illustrator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     
     //- Fin Tema1.3
@@ -153,7 +153,7 @@
     
     figure.mb-4(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=v0V5scPpWpA" title="Impuestos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/v0V5scPpWpA?si=Y2V6xEyr8CyQynKm" title="Animación digital: After effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     //- Fin Tema1.4
 

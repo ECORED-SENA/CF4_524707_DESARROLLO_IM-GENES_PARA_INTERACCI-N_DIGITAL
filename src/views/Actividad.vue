@@ -62,7 +62,7 @@ export default {
           id: 2,
           texto:
             '¿Cuál es uno de los sectores donde se aplica la animación digital?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -92,7 +92,7 @@ export default {
         {
           id: 3,
           texto: '¿Qué caracteriza a la animación digital 2D?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -123,7 +123,7 @@ export default {
           id: 4,
           texto:
             '¿En qué programas suele desarrollarse la base gráfica de una animación 2D?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -185,7 +185,7 @@ export default {
           id: 6,
           texto:
             '¿Qué se recomienda al iniciar el diseño de un personaje animado?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -215,7 +215,7 @@ export default {
         {
           id: 7,
           texto: '¿Qué caracteriza la técnica cuadro a cuadro?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -246,7 +246,7 @@ export default {
           id: 8,
           texto:
             '¿Cuál es una ventaja de la animación por partes tipo marioneta?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -306,7 +306,7 @@ export default {
         {
           id: 10,
           texto: '¿Qué permite Photoshop en animación 2D?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -336,7 +336,7 @@ export default {
         {
           id: 11,
           texto: '¿Qué tipo de gráficos se crean en Illustrator?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -366,7 +366,7 @@ export default {
         {
           id: 12,
           texto: '¿Cuál es una característica del entorno de After Effects?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -428,7 +428,7 @@ export default {
         {
           id: 14,
           texto: '¿En qué sectores se aplica ampliamente la animación 3D?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -458,7 +458,7 @@ export default {
         {
           id: 15,
           texto: '¿Cuál es una característica de Autodesk 3DS Max?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -488,7 +488,7 @@ export default {
         {
           id: 16,
           texto: '¿Qué distingue a Blender en la industria 3D?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -552,7 +552,7 @@ export default {
         {
           id: 18,
           texto: '¿En qué etapa se desarrollan los efectos visuales?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -582,7 +582,7 @@ export default {
         {
           id: 19,
           texto: '¿Cuál es una función de Houdini en la industria?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -612,7 +612,7 @@ export default {
         {
           id: 20,
           texto: '¿Qué es la renderización según el glosario?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {

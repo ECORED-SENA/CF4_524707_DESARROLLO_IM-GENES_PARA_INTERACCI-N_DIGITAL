@@ -215,7 +215,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Jorge David Barbosa Losada',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -227,32 +227,32 @@ export default {
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Alejandro Delgado Acosta',
-          cargo: 'Intérprete lenguaje de señas',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
-          nombre: 'Cristhian Giovanni Gordillo Segura',
-          cargo: 'Intérprete lenguaje de señas',
-          centro:
-            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
-        },
-        {
-          nombre: 'Juan Pablo Rojas Polania',
+          nombre: 'Jose Eduardo Solano Rivero',
           cargo: 'Animador y productor multimedia',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Maria Carolina Tamayo Lopez',
-          cargo: 'Locución',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Animador y productor multimedia',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'German Acosta Ramos',
-          cargo: 'Locución',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Animador y productor multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Wilson Andrés Arenales Cáceres',
+          cargo: 'Animador y productor multimedia',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
