@@ -63,7 +63,7 @@
                   img(src='@/assets/curso/tema3/tarjeta1_3.svg', alt='')
 
             h3.text-center Houdini
-            p <i>Software</i> Simulaciones avanzadas y efectos procedurales para cine de alta complejidad.
+            p Simulaciones avanzadas y efectos procedurales para cine de alta complejidad.
 
     p.mb-3.mt-5(data-aos="fade-left") En síntesis, la composición digital y los VFX amplían las posibilidades creativas del lenguaje audiovisual, permitiendo construir escenas que combinan realidad y elementos digitales con altos niveles de integración técnica y artística.
 

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 1
-      h1 Animación Digital 2D
+      h1 Animación digital 2D
 
 
 
@@ -50,7 +50,7 @@
               figure
                 img(src='@/assets/curso/tema1/2.svg', alt='')           
             .col-lg-8.mb-4.mb-lg-0.bg-color-1.p-5
-              p.mb-0 Para iniciar el proceso de diseño de un personaje se recomienda partir de formas geométricas básicas. Estas estructuras iniciales facilitan la proporción y la coherencia anatómica, especialmente cuando se pretende animar un ciclo de caminado. En este tipo de animación, el personaje adopta una pose diferente en cada dibujo, de modo que la secuencia completa represente el desplazamiento alternado de las piernas y genere la sensación de avance continuo.
+              p.mb-0 Para iniciar el proceso de diseño de un personaje, se recomienda partir de formas geométricas básicas. Estas estructuras iniciales facilitan la proporción y la coherencia anatómica, especialmente cuando se pretende animar un ciclo de caminado. En este tipo de animación, el personaje adopta una pose diferente en cada dibujo, de modo que la secuencia completa represente el desplazamiento alternado de las piernas y genere la sensación de avance continuo.
             
 
 

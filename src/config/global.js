@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Desarrollo e integración de la animación',
     Description:
-      'La animación digital es utilizada en la producción audiovisual convirtiéndose en una herramienta narrativa de interés comercial. Su uso se expande desde los comerciales publicitarios, los videojuegos y el cine. En este material se explican las técnicas de animación más utilizadas y las herramientas digitales para lograr la producción general de animaciones en 2D y 3D.',
+      'La animación digital es utilizada en la producción audiovisual, convirtiéndose en una herramienta narrativa de interés comercial. Su uso se expande desde los comerciales publicitarios, los videojuegos y el cine. En este material se explican las técnicas de animación más utilizadas y las herramientas digitales para lograr la producción general de animaciones en 2D y 3D.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
