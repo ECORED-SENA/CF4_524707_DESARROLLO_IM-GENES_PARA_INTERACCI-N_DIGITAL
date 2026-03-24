@@ -34,7 +34,7 @@
               figure
                 img(src='@/assets/curso/tema1/icon-text.svg', alt='', style="width: 80px")
 
-
+    Separador
     //- Inicio Tema1.1
     .row.mt-5
         #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -54,7 +54,7 @@
             
 
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-0
       .col-lg-12(data-aos="flip-up")
         .bg-color-2.p-4
           .row.justify-content-center.align-items-center
@@ -88,25 +88,24 @@
     p.mb-3(data-aos="fade-left") Estas estrategias pueden combinarse según las necesidades narrativas, el estilo gráfico y los tiempos de producción definidos para el proyecto.
 
     //- Fin Tema1.1
-
+    Separador
     //- Inicio Tema1.2
-    .row.mt-5
-        #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 1.2 Photoshop
-
-
-    .row.mb-10
-      .col-lg-5.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema1/3.png", data-aos="zoom-in")
-      .col-lg-7
-        .row.align-items-start.mb-3(data-aos="fade-left")
-          .col-lg
-          p.mb-0 Photoshop surgió como un programa orientado a la edición y manipulación fotográfica; sin embargo, en la actualidad se emplea en múltiples procesos artísticos que incluyen dibujo digital, ilustración y animación mediante diversas técnicas, como la <i>rotoscopia</i>. Su versatilidad lo ha consolidado como una herramienta fundamental en la industria del diseño y la animación digital.
-        .row.mt-3.align-items-start.mb-10.bg-color-4(data-aos="fade-left")  
-            p.p-4(data-aos="fade-left") En el contexto de la animación 2D, Photoshop permite digitalizar dibujos realizados a mano alzada y prepararlos para su posterior integración en programas como After Effects.
-
-
+    .row.bg-color-5
+      .col-12
+        .p-5
+          .row.mt-5
+              #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 1.2 Photoshop
+          .row.mb-10
+            .col-lg-5.mb-3.mb-lg-0
+              figure
+                img(src="@/assets/curso/tema1/3.png", data-aos="zoom-in" , style="width: 430px;")
+            .col-lg-7.d-flex.flex-column
+              .row.align-items-start.mb-3(data-aos="fade-left")
+                .col-lg
+                  p.mb-0 Photoshop surgió como un programa orientado a la edición y manipulación fotográfica; sin embargo, en la actualidad se emplea en múltiples procesos artísticos que incluyen dibujo digital, ilustración y animación mediante diversas técnicas, como la <i>rotoscopia</i>. Su versatilidad lo ha consolidado como una herramienta fundamental en la industria del diseño y la animación digital.
+              .row.mt-auto.align-items-start.bg-color-4(data-aos="fade-left")  
+                  p.p-4(data-aos="fade-left") En el contexto de la animación 2D, Photoshop permite digitalizar dibujos realizados a mano alzada y prepararlos para su posterior integración en programas como After Effects.
     p.mb-3(data-aos="fade-left") El siguiente recurso orienta el proceso de preparación de personajes en Photoshop mediante la segmentación en capas, permitiendo organizar cada parte del cuerpo de forma independiente para facilitar su posterior animación en programas especializados como After Effects.
     
 
@@ -117,20 +116,21 @@
 
 
     //- Fin Tema1.2
-
+    Separador
     //- Inicio Tema1.3
-    .row.mt-5
-        #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 1.3 Illustrator
-
-
-    .row.mb-10
-      .col-lg-7        
-        .row.mt-3.align-items-start.mb-10.bg-color-1(data-aos="fade-left")  
-            p.p-4(data-aos="fade-left") Illustrator es un editor de gráficos vectoriales ampliamente utilizado en el diseño gráfico, la ilustración digital y los procesos de animación 2D. Su entorno de trabajo se asemeja a un taller artístico digital en el que, a partir de una “Mesa de trabajo”, se crea un “Documento” adaptable a las necesidades del usuario. Esta estructura permite construir gráficos escalables sin pérdida de calidad, lo que resulta especialmente útil en la vectorización de personajes.
-      .col-lg-5.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema1/4.png", data-aos="zoom-in")
+    .row.bg-color-5
+      .col-12
+        .p-5
+          .row.mt-5
+              #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 1.3 Illustrator
+          .row.mb-10
+            .col-lg-8
+              .row.mt-3.align-items-start.mb-10.bg-color-1(data-aos="fade-left")  
+                  p.p-4(data-aos="fade-left") Illustrator es un editor de gráficos vectoriales ampliamente utilizado en el diseño gráfico, la ilustración digital y los procesos de animación 2D. Su entorno de trabajo se asemeja a un taller artístico digital en el que, a partir de una “Mesa de trabajo”, se crea un “Documento” adaptable a las necesidades del usuario. Esta estructura permite construir gráficos escalables sin pérdida de calidad, lo que resulta especialmente útil en la vectorización de personajes.
+            .col-lg-4.mb-3.mb-lg-0
+              figure
+                img(src="@/assets/curso/tema1/4.png", data-aos="zoom-in", style="width: 350px;")
 
     p.mb-3(data-aos="fade-left") El siguiente video presenta el proceso de vectorización y preparación de un personaje en Illustrator, explicando paso a paso la configuración del espacio de trabajo, el uso de herramientas de trazado y la organización de capas, hasta su exportación para la animación digital en programas especializados.
 
@@ -143,17 +143,22 @@
     
     //- Fin Tema1.3
 
-
+    Separador
 
     //- Inicio Tema1.4
-    .row.mt-5
-        #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 1.4 After Effects
-    p.mb-3(data-aos="fade-left") After Effects es un programa especializado en animación, composición y efectos digitales, utilizado en la producción cinematográfica, el diseño infográfico y la televisión, entre otros ámbitos. Su entorno de trabajo se basa en una línea de tiempo, donde los elementos se organizan por capas dentro de una composición. Esta estructura lo convierte en una herramienta versátil para proyectos audiovisuales de diversa complejidad. A continuación, se describen los pasos para animar el ciclo de caminado del personaje previamente diseñado, digitalizado o vectorizado.    
-    
-    figure.mb-4(data-aos="fade-left")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/v0V5scPpWpA?si=Y2V6xEyr8CyQynKm" title="Animación digital: After effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    .row.bg-color-5
+      .col-12
+        .p-5
+
+          .row.mt-5
+              #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 1.4 After Effects
+          p.mb-3(data-aos="fade-left") After Effects es un programa especializado en animación, composición y efectos digitales, utilizado en la producción cinematográfica, el diseño infográfico y la televisión, entre otros ámbitos. Su entorno de trabajo se basa en una línea de tiempo, donde los elementos se organizan por capas dentro de una composición. Esta estructura lo convierte en una herramienta versátil para proyectos audiovisuales de diversa complejidad. A continuación, se describen los pasos para animar el ciclo de caminado del personaje previamente diseñado, digitalizado o vectorizado.    
+          
+          figure.mb-4(data-aos="fade-left")
+            .video
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/v0V5scPpWpA?si=Y2V6xEyr8CyQynKm" title="Animación digital: After effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     //- Fin Tema1.4
 
